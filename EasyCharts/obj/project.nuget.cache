@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EOGtY9IJbl7nMZoWMjK5rtGUjSSMQRG+xsaL4aAYwWtECqtXfb3si0ohfTxsoGVYxP8J6Nc7JDF9R1ljRJKXNg==",
+  "success": true,
+  "projectFilePath": "H:\\PPT图表\\EasyCharts\\EasyCharts\\EasyCharts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LanXiaofang\\.nuget\\packages\\documentformat.openxml\\2.15.0\\documentformat.openxml.2.15.0.nupkg.sha512",
+    "C:\\Users\\LanXiaofang\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
